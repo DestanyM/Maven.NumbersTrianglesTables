@@ -17,18 +17,18 @@
 * **Description**
     * Given an integer, `stop`, return a `String` concatenation of all integers between `0` up to and not including `stop`.
 ### Example
-* Sample Script
+  * Sample Script
 
-    ```
-    // : Given
-    int stop = 11;
+      ```
+      //: Given
+      int stop = 11;
     
-    // : When
-    String outcome = NumberUtilities.getRange(stop);
+      // : When
+      String outcome = NumberUtilities.getRange(stop);
     
-    // : Then
-    System.out.println(outcome);
-    ```
+      // : Then
+      System.out.println(outcome);
+      ```
 
 
 
